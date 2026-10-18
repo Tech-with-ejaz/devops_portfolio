@@ -3,6 +3,6 @@
 *.pem
 *.key
 .venv/
-_pycache_/
+__pycache__/
 *.pyc
 .env
